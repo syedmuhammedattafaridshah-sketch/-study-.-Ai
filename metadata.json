@@ -1,0 +1,5 @@
+{
+  "name": "Study AI Test Generator",
+  "description": "Upload documents and generate comprehensive tests (MCQs, Short QA, True/False, Blanks) with customizable difficulty levels using Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
